@@ -35,7 +35,6 @@
 
 ***
 
-Outro bloco de informações.
 
 
 ✨ Agradeço a sua visita ao meu  GitHub! ✨
